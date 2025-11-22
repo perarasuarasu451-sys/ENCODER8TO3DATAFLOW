@@ -68,13 +68,13 @@ Developed by: PERARASU K RegisterNumber: 25004665
 
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
-![image](https://github.com/23004426/ENCODER8TO3DATAFLOW/assets/144979327/a6be6720-b53a-4b18-be0b-fcd54f21ffe9)
+<img width="863" height="753" alt="encoders circuit" src="https://github.com/user-attachments/assets/93a1fdfc-3af1-41e3-9f3d-325604eb8ea9" />
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![image](https://github.com/23004426/ENCODER8TO3DATAFLOW/assets/144979327/13c0e2f7-1ec8-4abd-a9f6-c3a56aec7d36)
+<img width="1310" height="489" alt="encoders wave" src="https://github.com/user-attachments/assets/91a54ba9-86e9-4637-b894-0273d33879e2" />
 
 **RESULTS**
-Thus the Encoder 8 to 3 dataflow circuits are designed and the truth tables is verified using 
+Implementing Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables executed successfully
 
 
 
